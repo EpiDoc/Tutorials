@@ -1,2 +1,2 @@
 # Syllabus
-Online Syllabus for EpiDoc training
+Online Syllabus for EpiDoc tutorials
