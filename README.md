@@ -13,6 +13,6 @@ Other sources of EpiDoc training materials:
 
 Readings:
 
-* G. Bodard & S. Stoyanova (2016). "Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy." In Bodard/Romanello (eds.) _Digital Classics Outside the Echo-Chamber: Teaching, Knowledge Exchange & Public Engagement_. (London: Ubiquity Press). Pp. 51–68. Available: http://dx.doi.org/10.5334/bat.d
+* G. Bodard & I. Vagionakis. 2022. “EpiDoc and Epigraphic Training in the Era of Remote and Hybrid Teaching.” _Digital Classics Online_ 8 (2022), 108–122. Available: https://doi.org/10.11588/dco.2022.8.90358
+* G. Bodard & S. Stoyanova. 2016. "Epigraphers and Encoders: Strategies for Teaching and Learning Digital Epigraphy." In Bodard & Romanello eds. _Digital Classics Outside the Echo-Chamber: Teaching, Knowledge Exchange & Public Engagement_.(London: Ubiquity Press. Pp. 51–68. Available: http://dx.doi.org/10.5334/bat.d
 * “EpiDoc and epigraphic training in the era of remote and asynchronous teaching.” Presentation at ENCODE Conference, Università di Bologna (January 25, 2021). Slideshow: https://tinyurl.com/yyhhc4e3
-
